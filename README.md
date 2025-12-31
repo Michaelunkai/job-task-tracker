@@ -157,6 +157,7 @@ GitHub: [https://github.com/Michaelunkai/job-task-tracker](https://github.com/Mi
 
 ## Live Demo
 
-🚀 **Deploy this app for free to get your live URL!**
+🚀 **[View Live Application](https://job-task-tracker-vercel.vercel.app/)**
 
-Follow the deployment instructions above to get your app online in under 2 minutes.
+The application is deployed and running 24/7 on Vercel's free tier at:
+**https://job-task-tracker-vercel.vercel.app/**
